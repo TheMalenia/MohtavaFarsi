@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hasancodes.github.io/PersianContent/sitemap.xml

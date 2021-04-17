@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Persian Content</title>
+    <link>https://hasancodes.github.io/PersianContent/categories/</link>
+    <description>Recent content in Categories on Persian Content</description>
+    <image>
+      <url>https://hasancodes.github.io/PersianContent/papermod-cover.png</url>
+      <link>https://hasancodes.github.io/PersianContent/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hasancodes.github.io/PersianContent/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
