@@ -1,4 +1,4 @@
-baseURL: "https://hasancodes.github.io/"
+baseURL: "https://hasancodes.github.io/PersianContent"
 title: Persian Content
 paginate: 5
 theme: PaperMod
@@ -92,11 +92,11 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    # assets:
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
+    assets:
+         favicon: "https://clubber.one/img/favicon.ico"
+         favicon16x16: "https://clubber.one/img/favicon-16x16.png"
+         favicon32x32: "https://clubber.one/img/favicon-32x32.png"
+         apple_touch_icon: "https://clubber.one/img/apple-touch-icon.png"
     #     safari_pinned_tab: "<link / abs url>"
 
     # cover:
