@@ -1,6 +1,6 @@
 baseURL: "https://hasancodes.github.io/PersianContent"
 title: Persian Content
-paginate: 5
+paginate: 10
 theme: PaperMod
 defaultContentLanguage: fa
 enableInlineShortcodes: true
