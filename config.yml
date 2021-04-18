@@ -54,7 +54,7 @@ params:
     ShowBreadCrumbs: true
     ShowToc: true
     comments: true
-    images: ["papermod-cover.png"]
+    images: ["favicon-32x32.png"]
 
     profileMode:
         enabled: false
