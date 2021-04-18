@@ -1,17 +1,24 @@
 {{- with $.Site.Params.homeInfoParams }}
 <article class="first-entry home-info">
     <header class="entry-header">
+        {{ partial "typography.html" }}
         <h1>{{ .Title | markdownify }}</h1>
+
     </header>
     <section class="entry-content">
+        {{ partial "typography.html" }}
         <p>{{ .Content | markdownify }}</p>
+
     </section>
     <footer class="entry-footer">
+        {{ partial "typography.html" }}
         {{ partial "social_icons.html" $.Site.Params.socialIcons }}
     </footer>
-
+    
+☝️ اینجا (کلاب هاوس) هر هفته پنجشنبه ساعت ۱۱ شب به وقت تهران، درباره‌ی «محتوای فارسی» صحبت می‌کنیم، بهانه‌ای برای کنجکاوی و یاد گرفتن بیشتر. </br>
+در پست‌های پایین می‌توانید گزارش هفتگی رویداد «محتوای فارسی» را بخوانید و به آرشیو متنی بحث‌ها دسترسی داشته باشید.
 </article>
-
+            
 {{- end -}}
 
 

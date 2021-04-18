@@ -1,0 +1,9 @@
+<!-- for usage details visit https://bit.ly/31PSv6d -->
+{{ $font := .Get "font" | default "Vazir"  }} 
+{{ $size := .Get "size" | default "18px"  }}
+{{ $style := .Get "style" | default "regular" }}
+{{ $weight := .Get "weight" | default "normal" }}
+<link href="https://cdn.fontcdn.ir/Font/Persian/{{ $font }}/{{ $font }}.css" rel="stylesheet" type="text/css">
+<div style="font-family:'{{ $font }}'; font-size:{{ $size }}; font-style:{{ $style}}; font-weight:{{ $weight }}">
+    {{- .Inner -}}
+</div>

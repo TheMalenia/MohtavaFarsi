@@ -1,4 +1,4 @@
-baseURL: "https://hasancodes.github.io/PersianContent"
+baseURL: "https://hasancodes.github.io/"
 title: Persian Content
 paginate: 5
 theme: PaperMod
@@ -70,11 +70,11 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "محتوای خوب فارسی"
+        Title: "محتوای فارسی 👋"
         Content: >
-            جایی برای منتشر کردن محتواهای خوب :)
+            جایی برای معرفی کردن محتواهای خوب :)
     socialIcons:
-        - name: ClubHouse
+        - name: clubhouse
           url: "https://www.joinclubhouse.com/club/%D9%85%D8%AD%D8%AA%D9%88%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C"
         - name: twitter
           url: "https://twitter.com/alihejvani/"
