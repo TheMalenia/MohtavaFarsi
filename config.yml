@@ -41,7 +41,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "Persian Content - محتوای فارسی"
     author: Theme PaperMod
     # author: [1, "Hasan"] # multiple authors
     defaultTheme: auto
