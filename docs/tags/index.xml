@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Persian Content</title>
-    <link>https://LordSauron.github.io/PersianContent/tags/</link>
+    <link>https://ps.TheSauron.ir/tags/</link>
     <description>Recent content in Tags on Persian Content</description>
     <image>
-      <url>https://LordSauron.github.io/PersianContent/favicon-32x32.png</url>
-      <link>https://LordSauron.github.io/PersianContent/favicon-32x32.png</link>
+      <url>https://ps.TheSauron.ir/favicon-32x32.png</url>
+      <link>https://ps.TheSauron.ir/favicon-32x32.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://LordSauron.github.io/PersianContent/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ps.TheSauron.ir/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ClubHouse</title>
-      <link>https://LordSauron.github.io/PersianContent/tags/clubhouse/</link>
+      <link>https://ps.TheSauron.ir/tags/clubhouse/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://LordSauron.github.io/PersianContent/tags/clubhouse/</guid>
+      <guid>https://ps.TheSauron.ir/tags/clubhouse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Live</title>
-      <link>https://LordSauron.github.io/PersianContent/tags/live/</link>
+      <link>https://ps.TheSauron.ir/tags/live/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://LordSauron.github.io/PersianContent/tags/live/</guid>
+      <guid>https://ps.TheSauron.ir/tags/live/</guid>
       <description></description>
     </item>
     
