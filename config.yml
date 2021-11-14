@@ -1,5 +1,5 @@
 baseURL: "https://thesauron.ir/MohtavaFarsi/"
-title: Persian Content
+title: "MohtavaFarsi"
 paginate: 10
 theme: PaperMod
 defaultContentLanguage: fa
@@ -57,7 +57,7 @@ params:
 
     profileMode:
         enabled: false
-        title: "Persian Contentٓ"
+        title: "MohtavaFarsi"
         imageUrl: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         imageTitle: my image
         # imageWidth: 120
@@ -83,7 +83,7 @@ params:
           url: "https://github.com/HasanCodes"
 
     label:
-         text: "Persian Content"
+         text: "MohtavaFarsi"
          # icon: icon.png
          iconHeight: 35
 

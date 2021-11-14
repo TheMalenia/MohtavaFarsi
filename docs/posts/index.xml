@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Persian Content</title>
+    <title>Posts on MohtavaFarsi</title>
     <link>https://thesauron.ir/MohtavaFarsi/posts/</link>
-    <description>Recent content in Posts on Persian Content</description>
+    <description>Recent content in Posts on MohtavaFarsi</description>
     <image>
       <url>https://thesauron.ir/MohtavaFarsi/favicon-32x32.png</url>
       <link>https://thesauron.ir/MohtavaFarsi/favicon-32x32.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thesauron.ir/MohtavaFarsi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thesauron.ir/MohtavaFarsi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>۲۲. تازگی جالب چی خوندی؟ دیدی؟ شنیدی؟</title>
+      <link>https://thesauron.ir/MohtavaFarsi/posts/week22/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesauron.ir/MohtavaFarsi/posts/week22/</guid>
+      <description> گزارش هفته بیست‌و دوم رویداد محتوای فارسی </description>
+    </item>
+    
     <item>
       <title>۲۱. تازگی جالب چی خوندی؟ دیدی؟ شنیدی؟</title>
       <link>https://thesauron.ir/MohtavaFarsi/posts/week21/</link>
@@ -197,6 +206,24 @@
       
       <guid>https://thesauron.ir/MohtavaFarsi/posts/week1/</guid>
       <description>گزارش هفته اول رویداد محتوای فارسی</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thesauron.ir/MohtavaFarsi/posts/all/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesauron.ir/MohtavaFarsi/posts/all/</guid>
+      <description>تازگی جالب چی خوندی؟ دیدی؟ شنیدی؟  جلسه شماره ۳۵ اینهفتهدرباره‌یچیزهایجالبیحرفمی‌زنیمکهتازگیاخوندیم، تماشاکردیموشنیدیموبهنظرمونمیادکهجالبن . پنجشنبه ۶ آبان ۱۴۰۰ ////// ۲۸ اکتبر ۲۰۲۱ - ۱۱ شببهوقتتهران ۱. علیحجوانی: امکانجدیدکلاب‌هاوسبرایاضافهکردنلینکبهروم‌ها- امکانانتخابزبان‌هایمختلفبرایجستجویروم‌ها- امکانضبطدرTwitter Spaces
+تغییرنامکمپانیفیسبوکبهمتادرراستایپروژه‌یمتاورس
+مقالهThe Sniff Testدرموردنقشسگهادرپروندههایجنایی
+2- عباسسیدین: مقالهAnimals Count and Use Zeroدربارهاینکهکلاغهامفهومعددرودرکمیکنن!
+علیحجوانی: ویديویسگیکهمی‌تواند ۱۰ هزاردلارراتشخیصدهد.
+3- ناصر: کتاب«کرگدنخاکستری» ازمیشلواکردرادامهکتاب«قویسیاه» ازنسیمطالبکهمیگهبعضیازاتفاقاتقویسیاهنیستوکردنخاکستریهست.
+مقالهWas the Pandemic a Grey Rhino or a Black Swanدرمورداینکهآیاکروناقویسیاههستیاکرگدنخاکستری؟
+تدتاکمیشلواکر
+4- نیماصیفوری: برنامهچرخازشبکه4 مجلهتصویریعلموفناوری- مجری: سیاوشصفاریانپور
+کتاب«مسائلتاریخیریاضیات» ترجمهپرویزشهریاریکهمسائلتاریخیریاضیاتروازقدیمتاحالابررسیکرده.</description>
     </item>
     
   </channel>
