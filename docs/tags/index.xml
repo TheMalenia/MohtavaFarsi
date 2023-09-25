@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on MohtavaFarsi</title>
-    <link>https://Malenia.ir/MohtavaFarsi/tags/</link>
+    <link>https://TheMalenia.github.io/MohtavaFarsi/tags/</link>
     <description>Recent content in Tags on MohtavaFarsi</description>
     <image>
-      <url>https://Malenia.ir/MohtavaFarsi/favicon-32x32.png</url>
-      <link>https://Malenia.ir/MohtavaFarsi/favicon-32x32.png</link>
+      <title>MohtavaFarsi</title>
+      <url>https://TheMalenia.github.io/MohtavaFarsi/favicon-32x32.png</url>
+      <link>https://TheMalenia.github.io/MohtavaFarsi/favicon-32x32.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Malenia.ir/MohtavaFarsi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fa</language>
+    <lastBuildDate>Thu, 29 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://TheMalenia.github.io/MohtavaFarsi/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ClubHouse</title>
-      <link>https://Malenia.ir/MohtavaFarsi/tags/clubhouse/</link>
+      <link>https://TheMalenia.github.io/MohtavaFarsi/tags/clubhouse/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://Malenia.ir/MohtavaFarsi/tags/clubhouse/</guid>
+      <guid>https://TheMalenia.github.io/MohtavaFarsi/tags/clubhouse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Live</title>
-      <link>https://Malenia.ir/MohtavaFarsi/tags/live/</link>
+      <link>https://TheMalenia.github.io/MohtavaFarsi/tags/live/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://Malenia.ir/MohtavaFarsi/tags/live/</guid>
+      <guid>https://TheMalenia.github.io/MohtavaFarsi/tags/live/</guid>
       <description></description>
     </item>
     

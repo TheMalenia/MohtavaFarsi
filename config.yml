@@ -1,4 +1,4 @@
-baseURL: "https://Malenia.ir/MohtavaFarsi/"
+baseURL: "https://TheMalenia.github.io/MohtavaFarsi/"
 title: "MohtavaFarsi"
 paginate: 10
 theme: PaperMod
@@ -67,10 +67,11 @@ params:
               url: archives
             - name: Tags
               url: tags
-
+              
     homeInfoParams:
-        Title: "محتوای فارسی 👋"
-        Content: >
+# <div id="outer" style="overflow:hidden;"> <div id="inner"> <img src="https://clubhouseicon.net/favicon.ico">    </div> </div>
+        Title:     <span>محتوای فارسی</span>
+        Content:  
             جایی برای معرفی کردن محتواهای خوب :)
     socialIcons:
         - name: clubhouse
@@ -80,7 +81,7 @@ params:
         - name: Rss
           url: "index.xml"
         - name: github
-          url: "https://github.com/HasanCodes"
+          url: "https://github.com/TheMalenia"
 
     label:
          text: "MohtavaFarsi"
@@ -92,10 +93,10 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-         favicon: "https://clubber.one/img/favicon.ico"
-         favicon16x16: "https://clubber.one/img/favicon-16x16.png"
-         favicon32x32: "https://clubber.one/img/favicon-32x32.png"
-         apple_touch_icon: "https://clubber.one/img/apple-touch-icon.png"
+         favicon: "https://clubhouseicon.net/favicon.ico"
+         favicon16x16: "https://clubhouseicon.net/favicon.ico"
+         favicon32x32: "https://clubhouseicon.net/favicon.ico"
+         apple_touch_icon: "https://clubhouseicon.net/favicon.ico"
     #     safari_pinned_tab: "<link / abs url>"
 
     # cover:
